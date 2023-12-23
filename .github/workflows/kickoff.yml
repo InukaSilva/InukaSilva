@@ -24,7 +24,7 @@ jobs:
             
             # Run readme-lol-stats-action
           - name: Use Kickoff Timer Action
-            uses: InukaSilva/FIRST-Robotics-Kickoff-Countdown@master
+            uses: InukaSilva/FIRST-Robotics-Kickoff-Countdown@main
             with:
                 source: ${{ github.event.repository.name }}
             
