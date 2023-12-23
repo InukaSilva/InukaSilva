@@ -23,8 +23,10 @@ jobs:
                 python -m pip install --upgrade pip
             
             # Run readme-lol-stats-action
-          - name: Use readme-lol-stats-action
+          - name: Use Kickoff Timer Action
             uses: InukaSilva/FIRST-Robotics-Kickoff-Countdown@master
+            with:
+                source: ${{ github.event.repository.name }}
             
             # Commit files to current repo
           - name: commit files
