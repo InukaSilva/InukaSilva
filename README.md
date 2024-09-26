@@ -5,6 +5,8 @@
 <h3 align='center'>Currently working on projects >:)</h3>
 
 <div style="font-size: 40px;" align='center'>
+'''math
 u(t) = K_p e(t) + K_i \int e(t) dt + K_p \frac{de}{dt}
+'''
 </div>
 
