@@ -7,7 +7,7 @@
   - Autonomous Vehicles 🚗
   - Photograpy 📸
   - Binge Watching Anime 📺
- ##### Connections:
+ ##### Connect With Me:
    - [LinkedIn](https://ca.linkedin.com/in/inuka-silva-a367a8244)
  
 $$u(t) = K_p \ e(t) + K_i \int e(t) + K_d \frac{de}{dt}$$
