@@ -1,6 +1,6 @@
 ## Hello There👋
 #### My name is Inuka Silva
-- currently a first year student @UTM
+- currently a first year student `@UTM`
 - interested in:
   - Robotics 🤖
   - Computer Vision 👀
