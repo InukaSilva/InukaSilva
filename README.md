@@ -1,6 +1,6 @@
 ## Hello There👋
 #### My name is Inuka Silva
-- 1st year `@UTM`
+- Engineering 1 | Co-op @ McMaster University
 ##### About Me:
   - Robotics 🤖
   - Computer Vision 👀
