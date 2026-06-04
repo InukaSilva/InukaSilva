@@ -1,6 +1,6 @@
 ## Hello There👋
 #### My name is Inuka Silva
-- Engineering 1 | Co-op @ McMaster University
+- Mechatronics Engineering Co-op @ McMaster University
 ##### About Me:
   - Robotics 🤖
   - Computer Vision 👀
