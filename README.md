@@ -1,7 +1,7 @@
 ```bash
-InukaSilav@Github:~$ cat Introduction.txt
+InukaSilva@Github:~$ whoami
 Name: Inuka Silva
-Program: Mechatronics Student @ McMaster
+Program: Mechatronics Engineering @ McMaster
 Year: 2nd
 Interests: Robotics, Computer Vision, Autonomous Vehicles, Photography, Cinematography, Gaming
 
